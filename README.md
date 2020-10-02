@@ -1,4 +1,5 @@
-### Hi there 👋
+### 최우혁
+# 게임개발과 인공지능에 관심이 있어요!
 
 <!--
 **choiwoohyck/choiwoohyck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
